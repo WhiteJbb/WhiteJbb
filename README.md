@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhiteJbb
+- 👋 Hi, I’m DonggeonIm @WhiteJbb
 - 👀 I’m interested in game coding
 - 🌱 I’m currently learning coding
 
