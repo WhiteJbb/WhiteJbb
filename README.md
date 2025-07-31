@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DonggeonIm @WhiteJbb
-- 👀 I’m interested in game coding
+- 👀 I’m interested in Security & Cloud Engineering
 - 🌱 I’m currently learning coding
 
 <!---
