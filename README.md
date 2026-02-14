@@ -1,5 +1,3 @@
-# Hello, Everyone! 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91F7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps;Solution+Architect;Donggeon+Im;WhiteJbb" alt="Typing SVG" />
 </div>
@@ -29,7 +27,7 @@
 - **AWS 본사 견학** (2025.09.20)
 - **KRAFTON 본사 견학** (2025.09.19)
 - **NAVER 1984 본사 견학** (2025.07.10)
-- 
+
 ---
 
 ## 🔬 Research & Activities
@@ -66,5 +64,16 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhiteJbb&show_icons=true&theme=transparent&hide_border=true&title_color=03C75A&icon_color=03C75A" />
+  <h3>🛠 Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:03C75A&height=120&section=footer" />
 </div>
