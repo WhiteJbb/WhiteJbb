@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91F7&center=true&vCenter=true&width=435&lines=Cloud+Engineer;DevOps;Solution+Architect;Donggeon+Im;WhiteJbb" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91F7&center=true&vCenter=true&width=435&lines=AI+Engineer;LLMOps;FDE;Donggeon+Im;WhiteJbb" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@
 ---
 
 ## 💼 Intern
-- **(주)엑스코어시스템** (2026.3.1 ~ 2026.08.31) 
+- **(주)엑스코어시스템** (2026.3.1 ~ 2026.08.31) - AI Engineer Intern
 
 ---
 
