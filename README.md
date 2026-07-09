@@ -20,9 +20,9 @@
 ---
 
 ## 🛠 Tech Stack
-> **AI / ML** <!-- TODO: 실제 사용하는 스택으로 교체 (예: LangChain, vLLM, Hugging Face 등) -->
+> **AI / ML**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"> <img src="https://img.shields.io/badge/vLLM-2E91F7?style=flat-square"> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white">
 
 > **Infra / DevOps**
 
@@ -31,9 +31,9 @@
 ---
 
 ## 🚀 Projects
-<!-- TODO: 대표 프로젝트 2~3개로 교체 -->
-- **[프로젝트 이름](https://github.com/WhiteJbb/저장소)** — 무엇을 만들었고, 어떤 기술로, 어떤 결과를 냈는지 한 줄 설명
-- **[프로젝트 이름](https://github.com/WhiteJbb/저장소)** — 한 줄 설명
+- **[local-rag-policy-chat](https://github.com/WhiteJbb/local-rag-policy-chat)** — PDF·PPTX·MD 규정 문서를 인덱싱해 출처와 함께 답변하는 완전 로컬 RAG 챗봇. Ollama + Qdrant 기반, 외부 API 호출 0
+- **[work-agent](https://github.com/WhiteJbb/work-agent)** — Obsidian Vault를 작업 맥락 저장소로 삼은 개인 생산성 자동화 CLI. task_type별 멀티 LLM 라우팅 + 장애 폴백, 매일 실사용 중
+- **[Federated Learning Testbed](https://github.com/2026-Feb-Winter-Institute/FL)** — 이질적 연합학습을 위한 Docker·실디바이스 실험 플랫폼. BWA·ADM 구현으로 정확도 52.77% → 55.47%, 학습 시간 21.3% 단축
 
 ---
 
@@ -67,11 +67,13 @@
 - **함께해요/가요 고등학생 교육 프로그램 참여** (2025.04 ~ 2025.07)
 - **AWS · KRAFTON · NAVER 본사 견학** (2025)
 
+> **Activities**의 스터디, ICIS Lab 학부연구생 이력 등은 위 Research 섹션 참고
+
 ---
 
 ## 📄 Certification
 - <img src="https://img.shields.io/badge/NAVER%20Cloud-Professional-03C75A?style=flat-square&logo=naver&logoColor=white"/> **NAVER Cloud Platform Certified Professional** (2026.01)
-- <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> **AWS Certified Cloud Practitioner** (2025.09)
+- <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> **AWS Certified Cloud Practitioner** (2025.09)
 - <img src="https://img.shields.io/badge/NAVER%20Cloud-Associate-03C75A?style=flat-square&logo=naver&logoColor=white"/> **NAVER Cloud Platform Certified Associate** (2025.07)
 - <img src="https://img.shields.io/badge/Q--Net-정보처리기능사-005697?style=flat-square"/> **정보처리기능사** (2020.05)
 
