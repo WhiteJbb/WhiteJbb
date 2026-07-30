@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Donggeon Im (WhiteJbb)</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91F7&center=true&vCenter=true&width=435&lines=AI+Engineer;LLMOps;FDE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E91F7&center=true&vCenter=true&width=435&lines=AI+Engineer;AI+Platform+Engineer;LLM+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,25 +15,66 @@
 <br/>
 
 ## 💼 Work Experience
-- **(주)엑스코어시스템 — AI Engineer Intern** (2026.03.01 ~ 2026.08.31)
+- **(주)엑스코어시스템 — AI Engineer/DevOps Intern** (2026.03.01 ~ 2026.08.31)
 
 ---
 
 ## 🛠 Tech Stack
-> **AI / ML**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"> <img src="https://img.shields.io/badge/vLLM-2E91F7?style=flat-square"> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white">
-
-> **Infra / DevOps**
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<table>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG-2E91F7?style=flat-square">
+      <img src="https://img.shields.io/badge/AI_Agent-6C47FF?style=flat-square">
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square">
+      <img src="https://img.shields.io/badge/vLLM-2E91F7?style=flat-square">
+      <img src="https://img.shields.io/badge/BGE--M3-F37626?style=flat-square">
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend / Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square">
+      <img src="https://img.shields.io/badge/SSE-FF6F00?style=flat-square">
+      <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra / DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+      <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square">
+      <img src="https://img.shields.io/badge/Nexus-1B1C30?style=flat-square">
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Projects
-- **[local-rag-policy-chat](https://github.com/WhiteJbb/local-rag-policy-chat)** — PDF·PPTX·MD 규정 문서를 인덱싱해 출처와 함께 답변하는 완전 로컬 RAG 챗봇. Ollama + Qdrant 기반, 외부 API 호출 0
-- **[work-agent](https://github.com/WhiteJbb/work-agent)** — Obsidian Vault를 작업 맥락 저장소로 삼은 개인 생산성 자동화 CLI. task_type별 멀티 LLM 라우팅 + 장애 폴백, 매일 실사용 중
-- **[Federated Learning Testbed](https://github.com/2026-Feb-Winter-Institute/FL)** — 이질적 연합학습을 위한 Docker·실디바이스 실험 플랫폼. BWA·ADM 구현으로 정확도 52.77% → 55.47%, 학습 시간 21.3% 단축
+## 🚀 Featured Projects
+
+- **[Forge](https://github.com/WhiteJbb/forge)** — Task·Capability·Cost·Health를 기반으로 모델을 선택하고 장애 시 자동 전환하는 코딩 에이전트용 LLM Gateway
+- **[HwaBaek](https://github.com/WhiteJbb/hwabaek)** — 에이전트 간 메시지 교환과 제안·표결·예산 제어를 직접 구현한 멀티 에이전트 의사결정 시스템
+- **[Devtrail](https://github.com/WhiteJbb/devtrail)** — AI 작업 기록을 지식과 결과물로 승격하는 Obsidian 기반 Personal Knowledge OS
 
 ---
 
